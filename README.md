@@ -17,5 +17,10 @@ Requirement Documentation
 Requirement Analysis and Modeling
 Requirement Validation.
 
+#Types of Requirements
+##functional requirements
+##non-functional requirements
+
+
 
 
