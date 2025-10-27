@@ -9,3 +9,13 @@ requirement analysis, elicitation, validation, documentation
 # Why is Requirement Analysis Important?
 
 to ensure the project's scope is documented and clear.
+
+# Key Activities in Requirement Analysis.
+Requirement Gathering
+Requirement Elicitation
+Requirement Documentation
+Requirement Analysis and Modeling
+Requirement Validation.
+
+
+
