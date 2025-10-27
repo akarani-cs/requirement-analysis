@@ -24,7 +24,9 @@ Requirement Validation.
 
 
 #Use Case Diagrams.
-https://drive.google.com/file/d/1C3xrLhXdHr0TGN7tfYXF_Sw3O24Pmk3M/view?usp=sharing
+https://drive.google.com/file/d/1C3xrLhXdHr0TGN7tfYXF_Sw3O24Pmk3M/view?usp=drive_link 
+alx-booking-uc.png
+
 
 #Acceptance Criteria
 importance of Acceptance Criteria in Requirement Analysis.
