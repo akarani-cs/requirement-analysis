@@ -23,5 +23,9 @@ Requirement Validation.
 ##non-functional requirements
 
 
+#Use Case Diagrams.
+https://drive.google.com/file/d/1C3xrLhXdHr0TGN7tfYXF_Sw3O24Pmk3M/view?usp=sharing
 
+#Acceptance Criteria
+importance of Acceptance Criteria in Requirement Analysis.
 
